@@ -1,0 +1,11 @@
+bokeh
+lxml
+pandas
+plotly
+matplotlib
+watermark
+networkx
+numpy
+ipywidgets
+ipython
+jupyterlab
